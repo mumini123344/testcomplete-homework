@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="main">
+			<folder name="Data" />
+			<folder name="Models" />
+			<folder name="Pages/Steps">
+				<child name="FillingOrder" key="{7D2ECEC8-7533-46C1-BF45-224A42798C30}" path="FillingOrder.js" />
+				<child name="MainPage" key="{0AC5F0A2-D28A-4731-9948-241572625E1E}" path="MainPage.js" />
+				<child name="OrderInfo" key="{C8827B7B-579C-4EE2-9F71-C50572DD1FE5}" path="OrderInfo.js" />
+			</folder>
+			<folder name="Common" />
+		</folder>
+		<folder name="test">
+			<folder name="Test runners">
+				<child name="Runners" key="{27B93CCC-05D9-4EBC-81BE-6084DDCDAD55}" path="Runners.js" />
+			</folder>
+			<folder name="Test cases">
+				<child name="TestCases" key="{87587E5D-46BC-4650-8DC0-5AC689853208}" path="TestCases.js" />
+			</folder>
+		</folder>
+	</children>
+</Root>

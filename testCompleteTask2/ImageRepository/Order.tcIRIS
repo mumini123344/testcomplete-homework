@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{3FAC5180-38DA-48DB-B3FE-485286032F0A}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="Order" />
+	<testData />
+	<data>
+		<item caption="orderpic" moniker="{92E93D82-3077-487A-8EE9-ED654BEBF9C4}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\orderpic.png" initialHash="9F47A572" selectionLeft="0" selectionTop="8" selectionWidth="27" selectionHeight="25" initialLeft="0" initialTop="8" initialWidth="27" initialHeight="25" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>
