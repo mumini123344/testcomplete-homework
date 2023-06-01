@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{8367BEA4-C4F1-453D-9B9C-75640AC8F2B2}">
+	<children>
+		<child name="secondTask" key="{9B985313-F4A5-4C27-9202-CF895232EDE9}" path="secondTask\secondTask.mds" />
+	</children>
+	<testItems key="{F033219E-31EA-4AA0-A6A9-C571D25CC18E}">
+		<children>
+			<testItem key="{9B985313-F4A5-4C27-9202-CF895232EDE9}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{0D997BFA-FC4F-418D-B125-F842EFD7BD06}" />
+	<analysis key="{1516C540-89DA-460E-BB3F-BA6DD635254C}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

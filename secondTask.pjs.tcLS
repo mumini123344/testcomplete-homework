@@ -21,13 +21,13 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="default project" type="S" value="{46C46EE4-EC3F-4713-A8F8-4F589552EA23}"/>
+				<Prp name="default project" type="S" value="{9B985313-F4A5-4C27-9202-CF895232EDE9}"/>
 			</Node>
-			<Node name="{46c46ee4-ec3f-4713-a8f8-4f589552ea23}">
-				<Prp name="relpath" type="S" value="TestProject1\TestProject1.mds.tcLS"/>
+			<Node name="{9b985313-f4a5-4c27-9202-cf895232ede9}">
+				<Prp name="relpath" type="S" value="secondTask\secondTask.mds.tcLS"/>
 			</Node>
 			<Node name="logs">
-				<Prp name="key" type="S" value="{9FEEB7E9-19EC-4BC5-9AD9-047C7D478F8A}"/>
+				<Prp name="key" type="S" value="{086B47B0-3B90-4A15-9007-7AD5B69FC1F0}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
 			<Node name="variables"/>
