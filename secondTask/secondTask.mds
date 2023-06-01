@@ -32,6 +32,9 @@
 				<Variable Name="card" Type="String" Local="False">
 					<DefValue StrValue="98776555634" />
 				</Variable>
+				<Variable Name="price" Type="String" Local="False">
+					<DefValue StrValue="$400" />
+				</Variable>
 			</Items>
 		</data>
 	</variables>

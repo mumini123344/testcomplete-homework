@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
-		<child name="AddOrder" key="{57A23EA8-607D-4AD0-8A6D-F127F48A23E3}" path="AddOrder.tcKDTest" />
 		<child name="OpenOrders" key="{5C04D98F-0744-4E23-8095-1AB3880651D3}" path="OpenOrders.tcKDTest" />
 		<child name="ClosingOrder" key="{FEB6A0FD-3428-48F3-B8B4-A1D7E04BF05D}" path="ClosingOrder.tcKDTest" />
 		<child name="FillingSections" key="{00AACFD1-B0C5-4826-9DAE-CC52273AC3CD}" path="FillingSections.tcKDTest" />

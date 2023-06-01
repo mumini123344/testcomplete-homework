@@ -1,0 +1,14 @@
+﻿class mainPage{
+  
+  constructor(){
+    this.new_order_button = Aliases.Orders.MainForm;
+    
+  }
+
+  make_New_Order(){
+    this.new_order_button.Click("Orders|New order...");
+  }
+  
+}
+
+module.exports.MainPage = new mainPage();

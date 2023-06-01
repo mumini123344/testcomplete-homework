@@ -37,6 +37,15 @@
 											</Property>
 										</Properties>
 									</Child>
+									<Child Name="OrdersView" Key="{324F1E14-A676-4607-9A7B-DB8ED841FED5}">
+										<Image FileName="-2135835474" Left="9" Top="91" Right="767" Bottom="466" />
+										<TypeInfo Item0="{51F235F5-AD3F-4E73-A42A-156806362DBD}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="OrdersView" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="OrderForm" Key="{71ABB4B2-7049-46D9-94DD-A7ABBB6F17C0}">
@@ -106,6 +115,15 @@
 												<Properties>
 													<Property Name="WinFormsControlName">
 														<Value Value="CardNo" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Price" Key="{9EA67D1C-A96A-4F83-A2FC-E4265C2DB13E}">
+												<Image FileName="255443384" Left="300" Top="101" Right="402" Bottom="123" />
+												<TypeInfo Item0="{ADB98224-93D7-4A7A-AA8E-7E7E6A4E4C0A}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Price" />
 													</Property>
 												</Properties>
 											</Child>
@@ -186,6 +204,7 @@
 		<Child Name="Orders" Owner="{D692515D-DC68-4268-8AAC-58EFABEA3F00}">
 			<Child Name="MainForm" Owner="{39E8EC44-DD28-4629-87CE-5668DD474933}">
 				<Child Name="ToolBar" Owner="{9CC420A4-4817-41E9-97F1-0EF50628DD9D}" />
+				<Child Name="OrdersView" Owner="{324F1E14-A676-4607-9A7B-DB8ED841FED5}" />
 			</Child>
 			<Child Name="OrderForm" Owner="{71ABB4B2-7049-46D9-94DD-A7ABBB6F17C0}">
 				<Child Name="Group" Owner="{A30F74F1-170C-43EE-99CE-2E24C0CA43DC}">
@@ -193,8 +212,9 @@
 					<Child Name="Street" Owner="{60193305-439B-4634-9943-84DA20B34603}" />
 					<Child Name="City" Owner="{5AD5F384-35F8-4DA9-AD86-AFBD8DE9B5A7}" />
 					<Child Name="State" Owner="{40C00AB1-60FB-40B5-BD3C-18F69820A1B4}" />
-					<Child Name="Zip" Owner="{D5B4817D-93F6-48DC-B016-B4079DD4676D}" />
 					<Child Name="CardNo" Owner="{03DC92CC-F72A-4852-AE8C-0E9A5D356EB7}" />
+					<Child Name="Zip" Owner="{D5B4817D-93F6-48DC-B016-B4079DD4676D}" />
+					<Child Name="Price" Owner="{9EA67D1C-A96A-4F83-A2FC-E4265C2DB13E}" />
 				</Child>
 				<Child Name="ButtonOK" Owner="{96F04C4C-1C12-4EA9-8183-47A8385FDC04}" />
 			</Child>
