@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="main">
+			<folder name="Common" />
+			<folder name="Data" />
+			<folder name="Models" />
+			<folder name="Pages/Steps">
+				<child name="FillingOrder" key="{7D2ECEC8-7533-46C1-BF45-224A42798C30}" path="FillingOrder.js" />
+			</folder>
+		</folder>
+		<folder name="test">
+			<folder name="Test cases" />
+			<folder name="Test runners">
+				<child name="MainTest" key="{9C209447-C11A-46CA-9FDB-1BDB88B2C3F7}" path="MainTest.js" />
+			</folder>
+		</folder>
+	</children>
+</Root>

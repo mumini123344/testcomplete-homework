@@ -4,7 +4,6 @@
 
 }
 
-Hello_World();
 
 function keywordsTest(){
   KeywordTests.Test1.Run();
