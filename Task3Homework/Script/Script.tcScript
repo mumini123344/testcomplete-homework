@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="main">
+			<folder name="Common" />
+			<folder name="Data" />
+			<folder name="Model" />
+			<folder name="Pages/Steps">
+				<child name="sumNums" key="{E2EA82C4-CB38-48D3-8EFE-59ECED1E90E1}" path="sumNums.js" />
+				<child name="Dates" key="{58F20773-92FE-489A-974C-46C151E7BD7B}" path="Dates.js" />
+				<child name="keyStrokesTesting" key="{7A80C06A-BF1E-4390-B38E-BE67E3DB15CC}" path="keyStrokesTesting.js" />
+			</folder>
+		</folder>
+		<folder name="test">
+			<folder name="Test cases">
+				<child name="testCases" key="{F111D8C3-3D11-41A1-ADE3-509C48E4B07A}" path="testCases.js" />
+			</folder>
+			<folder name="Test runner">
+				<child name="testRunner" key="{C5687DE2-4615-4A72-9E43-7DE6F7F03201}" path="testRunner.js" />
+			</folder>
+		</folder>
+	</children>
+</Root>
