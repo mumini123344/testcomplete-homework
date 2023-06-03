@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
-	<children>
-		<child name="Orders_KDT" key="{FDBA772B-8D6F-41C1-9924-A5DD7D4A3FCD}" path="Orders_KDT.tcKDTest" />
-		<child name="Test1" key="{10FDD73C-1F83-41CF-B99A-713AF1F2F282}" path="Test1.tcKDTest" />
-		<child name="Test2" key="{055FBE6A-D363-4371-893B-09F566235604}" path="Test2.tcKDTest" />
-		<child name="Test3" key="{C61710DA-FD82-46FB-A272-9917D8429EBC}" path="Test3.tcKDTest" />
-	</children>
-</Root>
