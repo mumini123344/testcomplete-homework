@@ -36,6 +36,15 @@
 											</Property>
 										</Properties>
 									</Child>
+									<Child Name="ToolBar" Key="{33550441-AB12-4AF0-AE02-255FF0DB9A17}">
+										<Image FileName="-1422334138" Left="9" Top="63" Right="767" Bottom="91" />
+										<TypeInfo Item0="{AF208067-65F2-4D85-8EBC-FF9BC73D9BD9}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="ToolBar" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="OrderForm" Key="{C1FCB8DE-6583-4740-B144-FFC1E88577C0}">
@@ -117,6 +126,33 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="Visa" Key="{11E58312-1736-4FA0-ACAE-FB7266A441AB}">
+												<Image FileName="-77703396" Left="146" Top="358" Right="310" Bottom="387" />
+												<TypeInfo Item0="{B3543349-3838-416D-90A5-8F8E2D79F2CA}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Visa" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="MasterCard" Key="{2BF90E4B-9882-4267-9384-AEDE0A37BA2C}">
+												<Image FileName="2090792467" Left="146" Top="387" Right="310" Bottom="417" />
+												<TypeInfo Item0="{B3543349-3838-416D-90A5-8F8E2D79F2CA}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="MasterCard" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="AE" Key="{45891E32-D4B8-4C03-B9EB-9E579C55EA10}">
+												<Image FileName="1927321545" Left="146" Top="417" Right="310" Bottom="447" />
+												<TypeInfo Item0="{B3543349-3838-416D-90A5-8F8E2D79F2CA}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="AE" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="ButtonOK" Key="{6B6EF04C-B7B5-45AD-B931-B4F613655968}">
@@ -154,6 +190,15 @@
 										</Properties>
 									</Child>
 								</Children>
+							</Child>
+							<Child Name="wnd32768" Key="{209CDC51-BF24-4F79-81D1-758A832D2481}">
+								<Image FileName="1190442413" Left="0" Top="0" Right="197" Bottom="84" />
+								<TypeInfo Item0="{612F0976-F79C-40BD-B189-B9987A4FE3F0}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32768" />
+									</Property>
+								</Properties>
 							</Child>
 						</Children>
 					</Child>
@@ -194,6 +239,7 @@
 		<Child Name="Orders" Owner="{8314CACC-6E42-4B6B-AB80-56861D0A084F}">
 			<Child Name="MainForm" Owner="{A9958700-FF43-4ADF-9A4A-AC0615C4B2CD}">
 				<Child Name="OrdersView" Owner="{622F85FE-8C49-4B67-AC35-493E42B6F9FC}" />
+				<Child Name="ToolBar" Owner="{33550441-AB12-4AF0-AE02-255FF0DB9A17}" />
 			</Child>
 			<Child Name="OrderForm" Owner="{C1FCB8DE-6583-4740-B144-FFC1E88577C0}">
 				<Child Name="Group" Owner="{09A4C48B-CC87-4208-9264-6405CDC99BE5}">
@@ -204,12 +250,16 @@
 					<Child Name="Zip" Owner="{03AF762B-94AC-4A41-BD3C-795BA23CF169}" />
 					<Child Name="CardNo" Owner="{4EEF5DBD-FFD2-48EC-BA3D-82974DE5489D}" />
 					<Child Name="Price" Owner="{F5D8C7DB-03CB-4EA3-9D85-85703AD0D969}" />
+					<Child Name="Visa" Owner="{11E58312-1736-4FA0-ACAE-FB7266A441AB}" />
+					<Child Name="MasterCard" Owner="{2BF90E4B-9882-4267-9384-AEDE0A37BA2C}" />
+					<Child Name="AE" Owner="{45891E32-D4B8-4C03-B9EB-9E579C55EA10}" />
 				</Child>
 				<Child Name="ButtonOK" Owner="{6B6EF04C-B7B5-45AD-B931-B4F613655968}" />
 			</Child>
 			<Child Name="dlgConfirmation" Owner="{1DD3971D-A2B9-4E86-9D69-BD753EAA5574}">
 				<Child Name="btnNo" Owner="{9F1267FB-536D-4243-BF83-B5A184BD7EE7}" />
 			</Child>
+			<Child Name="wnd32768" Owner="{209CDC51-BF24-4F79-81D1-758A832D2481}" />
 		</Child>
 		<Child Name="explorer" Owner="{BFCA93C9-FFFD-49AE-8149-E3868E12D83C}">
 			<Child Name="wndShell_TrayWnd" Owner="{0D79A34C-D071-4236-A9C7-279DD5CB4A71}">

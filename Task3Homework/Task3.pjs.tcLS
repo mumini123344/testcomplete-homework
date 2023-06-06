@@ -20,14 +20,14 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
-			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="default project" type="S" value="{AAB4BB1A-2F55-45C9-B76D-0B690F1C1588}"/>
-			</Node>
-			<Node name="{aab4bb1a-2f55-45c9-b76d-0b690f1c1588}">
+			<Node name="{07b82628-5a1d-4d5d-b236-eee8e53d78bb}">
 				<Prp name="relpath" type="S" value="Task3.mds.tcLS"/>
 			</Node>
+			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
+				<Prp name="default project" type="S" value="{07B82628-5A1D-4D5D-B236-EEE8E53D78BB}"/>
+			</Node>
 			<Node name="logs">
-				<Prp name="key" type="S" value="{907AECD9-9B40-498A-96BE-61A0B3092096}"/>
+				<Prp name="key" type="S" value="{1052070F-1B1B-4F9E-B34C-7D36084FC6C4}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
 			<Node name="variables"/>
