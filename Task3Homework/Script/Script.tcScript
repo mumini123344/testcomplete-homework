@@ -9,6 +9,8 @@
 				<child name="sumNums" key="{E2EA82C4-CB38-48D3-8EFE-59ECED1E90E1}" path="sumNums.js" />
 				<child name="Dates" key="{58F20773-92FE-489A-974C-46C151E7BD7B}" path="Dates.js" />
 				<child name="keyStrokesTesting" key="{7A80C06A-BF1E-4390-B38E-BE67E3DB15CC}" path="keyStrokesTesting.js" />
+				<child name="testingOrder" key="{4FB5DDE4-9A40-494C-9E76-1D20175B3F6E}" path="testingOrder.js" />
+				<child name="apiTesting" key="{A54BD946-6006-4811-83FE-6A633080184B}" path="apiTesting.js" />
 			</folder>
 		</folder>
 		<folder name="test">
